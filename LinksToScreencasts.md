@@ -18,6 +18,11 @@ Links to screencasts for ZOL851 (Statistical Methods in Ecology and Evolution)
 
 [Introduction to R: Getting your data in to R](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/CSE891/&name=IntroR_partIV_SecondScript) (24:37)
 
+## Some basic programming techniques in `R`
+[Control flow in `R`](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/CSE891/&name=CSE891_R_ControlFlow) (17:16, if statements, else if, ifelse(), for loops,  strsplit())
+
+[the `apply` family of functions in `R`](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/CSE891/&name=CSE_891_ApplyLikeFunctionsR) (21:10: apply, sapply, tapply, by)
+
 
 
 
