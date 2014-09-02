@@ -10,4 +10,14 @@ Links to screencasts for ZOL851 (Statistical Methods in Ecology and Evolution)
 
 [Introduction to R: introducing objects and classes in R](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/CSE845_2013/&name=R_Intro4_Objects_classes_2013) (8:05: Objects, classes, the basics.)
 
+[Introduction to R: workspaces getting help] (http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/CSE845_2013/&name=R_Intro5_Workspaces_Help_2013) (6:53: looking at objects in workspace, removing objects, saving workspace, help functions in `R`)
+
+[Introduction to R: functions in R](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/CSE845_2013/&name=R_Intro6_WritingFunctions_2013) (8:20) (writing our own functions, what script editor (IDE) might you wish to use)
+
+[Introduction to R: indexing, regular sequences](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/CSE845_2013/&name=R_intro7_RegSequences_Indexing_2013) (15:39)
+
+
+
+
+
 
