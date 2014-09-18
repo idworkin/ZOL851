@@ -26,15 +26,15 @@ Links to screencasts for ZOL851 (Statistical Methods in Ecology and Evolution)
 ## Introduction to the general linear model in R
 [Introduction to the General Linear model in R part 1](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=GLM_REVIEW_Part1_regressionR)
 
-[Screencast - Introduction to linear models using R part 2](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=GLM_Review_part2_interpretingRegression)
+[Introduction to linear models using R part 2](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=GLM_Review_part2_interpretingRegression)
 
-[Screencast - Introduction to linear models using R part 3](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=GLM_Review_3_interpreting)
+[Introduction to linear models using R part 3](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=GLM_Review_3_interpreting)
 
-[Screencast - Interpreting the parameters in models with multiple predictors](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=ZOL851_InterpretingPartialPredictors)
+[Interpreting the parameters in models with multiple predictors](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=ZOL851_InterpretingPartialPredictors)
 
-[Screencast - Examining colinearity among predictor variables using R](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=ColinearityAmongPredictors)
+[Examining colinearity among predictor variables using R](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=ColinearityAmongPredictors)
 
-[Screencast - Basic diagnostics for the general linear model using R](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=SimpleModelDiagnosticsGLM)
+[Basic diagnostics for the general linear model using R](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=SimpleModelDiagnosticsGLM)
 
 
 
