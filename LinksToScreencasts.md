@@ -36,7 +36,12 @@ Links to screencasts for ZOL851 (Statistical Methods in Ecology and Evolution)
 
 [Basic diagnostics for the general linear model using R](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=SimpleModelDiagnosticsGLM)
 
+## Some basic tutorials on probability distributions, and using them in `R`
+[Basic probability calculations in R](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=ProbabilityFunctionsR)
 
+[Basic probability calculations in R, part II](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=ProbabilityInR_II)
+
+[Where do the Chi-squared and F distributions come from](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=ChiSquareFDist)
 
 
 
