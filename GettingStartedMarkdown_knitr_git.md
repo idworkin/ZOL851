@@ -31,9 +31,9 @@ install.packages("knitr")
 Then write a little script in **R** that generates some random numbers from a normal distribution and plots both a histogram and the density plot we like (I will let you do this). To let knitr know that this is a code block remember to start the block (on a new line):
 
 keep in mind that the code needs to be imbedded in  
-```{R name_your_snippet, eval=FALSE} 
+"```{R name_your_snippet, eval=FALSE} 
 R code
-```
+"```
 
 But without the double quotes (")
 
