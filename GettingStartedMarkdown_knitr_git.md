@@ -19,7 +19,9 @@ There is also a number of cheatsheets for the commands. I happen to use [this on
 
 While you can just as easily just provide your scripts (i.e. `MyAnalysis.R`) along with your data in a data repository like [DRYAD](http://datadryad.org/), it is often much clearer to provide some clarity to your analysis. Essentially provide sufficient information to explain what you are doing. Indeed it is possible (and not that difficult) to generate a single text document that contains all of the information to generate both your analysis, including figures, generate a markup document (like LaTeX) which generates a PDF of your manuscript. This same file can be parsed to generate just the analysis script (i.e. just the `.R` bits). In class the `.tex` and `.R` files as well as  PDFs that I generate are a result of this where I have generated a combined text file with prose and script (in a `.Rnw` file), and I use `Sweave()` to generate the `.tex` file and `tangle()` to generate the `.R` file. The .tex file can be compiled into making a PDF (.tex is the extension for the tex and LaTeX language).
 
-However learning LaTeX has a bit of a learning curve. So instead we will focus on using a very simple syntax highlighting system called "markdown" that can easily be integrated with **R** using the library `knitr`. When you combine **R** functions with markdown it is often called "R markdown" and files with this have the extension `.Rmd` (as opposed to just `.md` for markdown).
+However learning LaTeX has a bit of a learning curve. So instead we will focus on using a very simple syntax highlighting system called "markdown" that can easily be integrated with **R** using the library `knitr`. When you combine **R** functions with markdown it is often called "R markdown" and files with this have the extension `.Rmd` (as opposed to just `.md` for markdown). There are some books and many [tutorials](http://yihui.name/knitr/demo/minimal/) to get you started with R and markdown. I also recommend looking at the [examples here](http://kbroman.org/knitr_knutshell/pages/Rmarkdown.html).
+
+
 
 First make sure to install the `knitr` library. 
 ```{r install_packages}
@@ -28,11 +30,12 @@ install.packages("knitr")
 
 Then write a little script in **R** that generates some random numbers from a normal distribution and plots both a histogram and the density plot we like (I will let you do this). To let knitr know that this is a code block remember to start the block (on a new line):
 
-'```{r give_code_snipper_name}
-your_r_command
-your_other_r_command
-...
-'```
+keep in mind that the code needs to be imbedded in  
+" ```{R name_your_snipper} 
+R code
+``` "
+
+
 
 
 
