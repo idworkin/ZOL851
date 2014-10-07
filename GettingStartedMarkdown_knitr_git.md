@@ -32,7 +32,7 @@ Then write a little script in **R** that generates some random numbers from a no
 
 keep in mind that the code needs to be imbedded in  
 ```
-"```{R yourSnippet}
+"```{R\r yourSnippet}
 code
 "```
 ```
