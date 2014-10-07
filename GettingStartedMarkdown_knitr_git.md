@@ -32,11 +32,29 @@ Then write a little script in **R** that generates some random numbers from a no
 
 keep in mind that the code needs to be imbedded in  
 ```
-```{R yourSnippet}
+"```{R yourSnippet}
 code
-```
+"```
 ```
 
+But without the double quotes (").
+
+You can add text to describe what you are generating, and as long as your code is in appropriate chunks, it should be ok.
+
+once you finish (and make sure you are in the correct working directory).
+
+```{r load_knitr}
+library(knitr)
+knit(yourfile.rmd) # compiles (runs the analysis) & generates the .md version and figures
+# or 
+knit2html(yourfile.rmd) # as above but also generates a .html version
+# and
+purl(yourfile.rm) # extracts R code
+```
+
+Now you should go into your folder and see a `.md` file and possibily a `.R` and `.html`. There should also be a folder with figures that you generated.
+
+## Version Control
 
 
 
