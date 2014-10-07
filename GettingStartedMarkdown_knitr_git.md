@@ -26,4 +26,13 @@ First make sure to install the `knitr` library.
 install.packages("knitr")
 ```
 
+Then write a little script in **R** that generates some random numbers from a normal distribution and plots both a histogram and the density plot we like (I will let you do this). To let knitr know that this is a code block remember to start the block (on a new line):
+
+'```{r give_code_snipper_name}
+your_r_command
+your_other_r_command
+...
+'```
+
+
 
