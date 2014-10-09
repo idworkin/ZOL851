@@ -47,9 +47,10 @@ Links to screencasts for ZOL851 (Statistical Methods in Ecology and Evolution)
 ## Introduction to monte carlo (simulation) based approaches for inferences
 [The absolute basics for doing simulations](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=IntroductionToSimulationsInR_basics)
 
-[Screencast - Monte Carlo simulations under null models.](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=MonteCarloSimulationNullModel) How to generate monte carlo simulation models under null models, and using them to get simple things like p-values (we have to start somewhere).
 
 [Screencast - Generating Monte Carlo Confidence Intervals part I](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=GeneratingMonteCarlo_CI_R_intro) ~20m minutes.
+
+[Screencast - Monte Carlo simulations under null models.](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=MonteCarloSimulationNullModel) How to generate monte carlo simulation models under null models, and using them to get simple things like p-values (we have to start somewhere).
 
 [Screencast - Generating Monte Carlo Confidence Intervals part II](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=MonteCarlo_CI_II)
 
