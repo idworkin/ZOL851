@@ -56,7 +56,7 @@ Links to screencasts for ZOL851 (Statistical Methods in Ecology and Evolution)
 
 
 ## Introduction to resampling methods (permutation tests, non-parametric bootstrap).
-[Screencast - Using the sample() function for resampling - Basics](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=ZOL851_sample_functionR_basics)  how to use the sample function to do sampling with and without replacement. 
+[Screencast - Using the sample() function for resampling - Basics](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=ZOL851_sample_functionR_basics)  (8:05) how to use the sample function to do sampling with and without replacement. 
 
 [Screencast - Introduction to Permutation tests in R](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=ZOL851_PermutationTestR_basic) Performing simple permutation tests for simple linear models.
 
