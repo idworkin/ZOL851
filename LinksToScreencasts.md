@@ -55,3 +55,12 @@ Links to screencasts for ZOL851 (Statistical Methods in Ecology and Evolution)
 [Screencast - Generating Monte Carlo Confidence Intervals part II](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=MonteCarlo_CI_II)
 
 
+## Introduction to resampling methods (permutation tests, non-parametric bootstrap).
+[Screencast - Using the sample() function for resampling - Basics](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=ZOL851_sample_functionR_basics)  how to use the sample function to do sampling with and without replacement. 
+
+[Screencast - Introduction to Permutation tests in R](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=ZOL851_PermutationTestR_basic) Performing simple permutation tests for simple linear models.
+
+[Screencast - Introduction to the non-parametric bootstrap using R](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=ZOL851_NonParametricBoostrapBasicsR)  How to use simple non parametric bootstrap to construct SE, CIs and for simple hypothesis testing.
+
+[Screencast -Using the non-parametric bootstrap in R for generating confidence intervals for linear models](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=ZOL851_NonParametricBootstrap_regression)
+
