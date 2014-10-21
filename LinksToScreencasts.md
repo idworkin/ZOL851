@@ -64,3 +64,7 @@ Links to screencasts for ZOL851 (Statistical Methods in Ecology and Evolution)
 
 [Screencast -Using the non-parametric bootstrap in R for generating confidence intervals for linear models](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=ZOL851_NonParametricBootstrap_regression)
 
+## Maximum Likelihood Estimation
+[Introduction to model fitting with Maximum Likelihood estimation using R](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=ZOL851_RegressionLikelihood_Intro)
+
+[Slightly more advanced model fitting with MLE in R](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=ZOL851_FittingModelsWithMLE_2)
