@@ -68,3 +68,9 @@ Links to screencasts for ZOL851 (Statistical Methods in Ecology and Evolution)
 [Introduction to model fitting with Maximum Likelihood estimation using R](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=ZOL851_RegressionLikelihood_Intro)
 
 [Slightly more advanced model fitting with MLE in R](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=ZOL851_FittingModelsWithMLE_2)
+
+
+## Some tutorials on fitting and intepreting mixed models in `R` using the lme4 library (and other tools)
+[Fitting linear mixed models using `lmer()`](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=linear_mixed_models_lmer_-_20141113_154417_16) - This tutorial is a bit on the long side!
+
+[Fitting a longitudinal model using `lmer()`](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=longitudinal_model_lme4_-_20141113_163422_16) Based on a classic example from Douglas Bates.
