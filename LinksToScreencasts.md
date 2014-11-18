@@ -74,3 +74,7 @@ Links to screencasts for ZOL851 (Statistical Methods in Ecology and Evolution)
 [Fitting linear mixed models using `lmer()`](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=linear_mixed_models_lmer_-_20141113_154417_16) - This tutorial is a bit on the long side!
 
 [Fitting a longitudinal model using `lmer()`](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=longitudinal_model_lme4_-_20141113_163422_16) Based on a classic example from Douglas Bates.
+
+
+## Lecture and tutorial on Model Selection and multi-model inference
+[Information and Model Selection Lecture](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=InformationTheoryModelSelection_-_20141117_121059_16). Sorry this turned out way longer than I wanted, so take breaks every 15 minutes!
