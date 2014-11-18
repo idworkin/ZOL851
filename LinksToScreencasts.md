@@ -77,4 +77,4 @@ Links to screencasts for ZOL851 (Statistical Methods in Ecology and Evolution)
 
 
 ## Lecture and tutorial on Model Selection and multi-model inference
-[Information and Model Selection Lecture](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=InformationTheoryModelSelection_-_20141117_121059_16). Sorry this turned out way longer than I wanted, so take breaks every 15 minutes!
+[Information and Model Selection Lecture](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/&name=InformationTheoryModelSelection_-_20141117_121059_16).Sorry this turned out way longer than I wanted, so take breaks every 15 minutes!
