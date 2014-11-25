@@ -79,7 +79,7 @@ Links to screencasts for ZOL851 (Statistical Methods in Ecology and Evolution)
 ## Lectures and tutorial on Model Uncertainty, Model Selection and multi-model inference
 [Information and Model Selection Lecture part 1](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/ZOL851_ModelUncertainty/&name=ZOL851_ModelUncertainty_Part1_-_20141125_082115_16).
 
-[Information and Model Selection Lecture part 1](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/ZOL851_ModelUncertainty/&name=ZOL851_ModelUncertainty_partII_-_20141125_083217_16)
+[Information and Model Selection Lecture part 2](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/ZOL851_ModelUncertainty/&name=ZOL851_ModelUncertainty_partII_-_20141125_083217_16)
 
 [Information and Model Selection Lecture part 3](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/ZOL851_ModelUncertainty/&name=ZOL851_ModelUncertainty_partIII_-_20141125_085725_16)
 
