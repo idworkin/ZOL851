@@ -93,6 +93,7 @@ Links to screencasts for ZOL851 (Statistical Methods in Ecology and Evolution)
 1. Screencast on using lists, lapply, do.call, unlist, etc (i.e. all of the headaches with lists).
 2. Screencast on data munging with base R (including reshape)
 3. screencast on data munging with dplyr, and reshaping with reshape library, maybe tidyr.
+4. functions, scopes and environments. Or just send them to [here](http://stcorp.nl/R_course/tutorial_code_organisation.html)
 
 # Where to go next (books, Hadley Wickham advanced R, etc..)
 Some other nice tutorials to [try](http://www.numbertheory.nl/2015/09/05/tutorials-freely-available-form-course-i-taught-including-ggplot2-dplyr-and-shiny/)
