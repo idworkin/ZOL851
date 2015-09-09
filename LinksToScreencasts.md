@@ -89,3 +89,10 @@ Links to screencasts for ZOL851 (Statistical Methods in Ecology and Evolution)
 
 [Information and Model Selection Lecture part 6](http://storemedia.vudat.msu.edu/public/display_package.php?src=download/idworkin/ZOL851_ModelUncertainty/&name=ZOL851_ModelUncertainty_6_-_20141125_094951_16)- multimodel inferences.
 
+## **TO DO LIST FOR ID**
+1. Screencast on using lists, lapply, do.call, unlist, etc (i.e. all of the headaches with lists).
+2. Screencast on data munging with base R (including reshape)
+3. screencast on data munging with dplyr, and reshaping with reshape library, maybe tidyr.
+
+# Where to go next (books, Hadley Wickham advanced R, etc..)
+Some other nice tutorials to [try](http://www.numbertheory.nl/2015/09/05/tutorials-freely-available-form-course-i-taught-including-ggplot2-dplyr-and-shiny/)
